@@ -576,5 +576,3 @@ I would also like to thank the **School of Computer Science and Engineering, IIL
 - Java Documentation — https://docs.oracle.com/en/java/
 
 ---
-
-⭐ **If you found this project useful, consider giving the repository a star!**
